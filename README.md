@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nuagedelait
+- 👋 Hi, I’m @nuagedelait, I'm a Web Frontend Engineer Manager
 - 👀 I’m interested in good designs
-- 🌱 I’m currently learning managment
-- 💞️ I’m looking to collaborate on everything
-- 📫 You can reach me by email
+- 🌱 I’m currently learning gardening
+- 💞️ I’m looking to collaborate on everything and everywhere
+- 📫 You can reach me by email, i'll always reply
